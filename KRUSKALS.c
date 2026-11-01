@@ -52,3 +52,12 @@
       }
       return 0;
     }
+
+
+    Enter the no. of vertices: 4
+
+    Enter the cost adjacency matrix:
+    0 10 6 5
+    10 0 15 4
+    6 15 0 12
+    5 4 12 0
